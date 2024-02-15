@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-Hi! I'm Lucy, and I'm a PhD student in Developmental Psychology at the University of Oregon, where I work with Dr. Kate Mills in the [Developing Brains in Context lab](devbrainlab.org)
+Hi! I'm Lucy, and I'm a PhD student in Developmental Psychology at the University of Oregon, where I work with Dr. Kate Mills in the [Developing Brains in Context Lab](devbrainlab.org).
 
 I'm interested in adolescent social and brain development, and many of my current projects focus on understanding maturation across domains. I also love taking real brains to local schools to teach kids about neuroscience!
 
