@@ -1,11 +1,10 @@
 ---
 layout: post
-title: BrainAGE & Maturation
-description: How is BrainAGE related to puberty and cognition?
+title: Publications
+description: recent publications & presentations
 ---
 
-
-H1 Header
+Publications
 ============
 
 Paragraphs are separated by a blank line.
@@ -52,21 +51,15 @@ define foobar() {
 ~~~
 
 (which makes copying & pasting easier). You can optionally mark the
-delimited block for Pandoc to syntax highlight it by specifying the languagae after the start of a block (e.g. `~~~cpp`) which would look like :
+delimited block for Pandoc to syntax highlight it by specifying the languagae after the start of a block (e.g. `~~~python`) which would look like :
 
-~~~cpp
-#include <iostream>
-using namespace std;
-
-int main() 
-{    
-    cout << "Size of char: " << sizeof(char) << " byte" << endl;
-    cout << "Size of int: " << sizeof(int) << " bytes" << endl;
-    cout << "Size of float: " << sizeof(float) << " bytes" << endl;
-    cout << "Size of double: " << sizeof(double) << " bytes" << endl;
-
-    return 0;
-}
+~~~python
+import time
+# Quick, count to ten!
+for i in range(10):
+    # (but not *too* quick)
+    time.sleep(0.5)
+    print(i)
 ~~~
 
 ### An H3 header ###
