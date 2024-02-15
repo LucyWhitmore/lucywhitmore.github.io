@@ -3,8 +3,8 @@
 title: Lucy Whitmore
 description: PhD Student | University of Oregon
 
-baseurl: /lucywhtmore.github.io #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+baseurl: "/" #name of GitHub repository
+url: "https://lucywhitmore.github.io" #custom url to be used instead of GitHub repository
 email: #
 
 # Pagination
