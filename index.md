@@ -7,13 +7,11 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Hi! I'm Lucy, and I'm a PhD student in Developmental Psychology at the University of Oregon, where I work with Dr. Kate Mills in the [Developing Brains in Context lab](devbrainlab.org)
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+I'm interested in adolescent social and brain development, and many of my current projects focus on understanding maturation across domains. I also love taking real brains to local schools to teach kids about neuroscience!
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
-
-PS: If you liked the theme, do star it on GitHub!
+I take a mixed-methods approach in my research, ranging from machine learning methods to participatory action research. Check out the projects tab for more information about what I'm working on!
 
 ### Also, check out:
 
