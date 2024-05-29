@@ -5,143 +5,18 @@ description: How is BrainAGE related to puberty and cognition?
 ---
 
 
-H1 Header
+How is BrainAGE related to puberty and cognition?
 ============
 
-Paragraphs are separated by a blank line.
+BrainAGE, or the Brain-Age Gap Estimate, is a framework that predicts someone's age from MRI data. Originally used to investigate brain aging in older adults, it's being applied more often to adolescent populations, where BrainAGE is commonly interpreted as reflecting accelerated or decelerated brain maturation. However, does BrainAGE track with other metrics of maturation in adolescence? That's what I looked at in the recent project!
 
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
-
-  * this one
-  * that one
-  * the other one
-
-Note that the actual text
-content starts at 4-columns in.
-
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
+If you're interested in reading more about the project, check out the publication here: [BrainAGE and maturation manuscript](https://https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00037/118105/BrainAGE-as-a-measure-of-maturation-during-early) 
 
 
-H2 Header
-------------
+If you're interested in a quick overview, here are some highlights:
 
-Here's a numbered list:
+- I used three BrainAGE models, one previously validated model trained on 9-19 year olds, and two that I created using data from specific age ranges that lined up with our test sample, obtained from the ABCD Study. These models are available on my github!
 
- 1. first item
- 2. second item
- 3. third item
+- Across models, age ranges, and report type, adolescents who were farther along in puberty than their same-age peers also tended to have an older BrainAGE, or a predicted age older than their actual age.
 
-Note again how the actual text starts at 4 columns in (4 characters
-from the left side). Here's a code sample:
-
-    # Let me re-iterate ...
-    for i in 1 .. 10 { do-something(i) }
-
-As you probably guessed, indented 4 spaces. By the way, instead of
-indenting the block, you can use delimited blocks, if you like:
-
-~~~
-define foobar() {
-    print "Welcome to flavor country!";
-}
-~~~
-
-(which makes copying & pasting easier). You can optionally mark the
-delimited block for Pandoc to syntax highlight it by specifying the languagae after the start of a block (e.g. `~~~cpp`) which would look like :
-
-~~~cpp
-#include <iostream>
-using namespace std;
-
-int main() 
-{    
-    cout << "Size of char: " << sizeof(char) << " byte" << endl;
-    cout << "Size of int: " << sizeof(int) << " bytes" << endl;
-    cout << "Size of float: " << sizeof(float) << " bytes" << endl;
-    cout << "Size of double: " << sizeof(double) << " bytes" << endl;
-
-    return 0;
-}
-~~~
-
-### An H3 header ###
-
-Now a nested list:
-
- 1. First, get these ingredients:
-
-      * carrots
-      * celery
-      * lentils
-
- 2. Boil some water.
-
- 3. Dump everything in the pot and follow
-    this algorithm:
-
-        find wooden spoon
-        uncover pot
-        stir
-        cover pot
-        balance wooden spoon precariously on pot handle
-        wait 10 minutes
-        goto first step (or shut off burner when done)
-
-    Do not bump wooden spoon or it will fall.
-
-Notice again how text always lines up on 4-space indents (including
-that last line which continues item 3 above).
-
-Here's a footnote [^1].
-
-[^1]: Some footnote text.
-
-Tables can look like this:
-
-| Header 1 | Header 2                   | Header 3 |
-|:--------:|:--------------------------:|:--------:|
-| data1a   | Data is longer than header | 1        |
-| d1b      | add a cell                 |          |
-| lorem    | ipsum                      | 3        |
-|          | empty outside cells        |          |
-| skip     |                            | 5        |
-| six      | Morbi purus                | 6        |
-
-
-A horizontal rule follows.
-
-***
-
-Here's a definition list:
-
-apples
-  : Good for making applesauce.
-
-oranges
-  : Citrus!
-
-tomatoes
-  : There's no "e" in tomatoe.
-
-Again, text is indented 4 spaces. (Put a blank line between each
-term and  its definition to spread things out more.)
-
-Here's a "line block" (note how whitespace is honored):
-
-| Line one
-|   Line too
-| Line tree
-
-and images can be specified like so:
-
-![example image](https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=300&h=300&fit=crop "An exemplary image")
-
-Inline math equation: $\omega = d\phi / dt$. Display
-math should get its own line like so:
-
-$$I = \int \rho R^{2} dV$$
+- The cognition results were murkier! Cognition was inconsistently related to BrainAGE across the models. 
