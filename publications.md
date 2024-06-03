@@ -7,134 +7,31 @@ description: recent publications & presentations
 Publications
 ============
 
-Paragraphs are separated by a blank line.
+Ali, S., McCann, C., Thieu, M., Whitmore, L., Laird, A. (In press, Developmental Cognitive Neuroscience). NowIKnowMyABCD: A Global Resource Hub for Researchers Using Data from the ABCD Study. 
+2023
 
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
+Whitmore, L.B., Weston, S.J., Mills, K.L. (2023). BrainAGE as a measure of maturation during early adolescence. Imaging Neuroscience 2023; 1 1–21.
+2022	
 
-  * this one
-  * that one
-  * the other one
+Weinstein, N. Y., Whitmore, L. B., & Mills, K. L. (2022). Individual Differences in Mentalizing Tendencies. Collabra: Psychology, 8(1), 37602.
 
-Note that the actual text
-content starts at 4-columns in.
+van Duijvenvoorde, A. C., Whitmore, L. B., Westhoff, B., & Mills, K. L. (2022). A methodological perspective on learning in the developing brain. NPJ science of learning, 7(1), 12.
 
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
+Saragosa-Harris, N. M., Chaku, N., MacSweeney, N., Williamson, V. G., Scheuplein, M., Feola, B., ... & Mills, K. L. (2022). A practical guide for researchers and reviewers using the ABCD Study and other large longitudinal datasets. Developmental cognitive neuroscience, 55, 101115.
+2021
 
+Whitmore, L. B., & Mills, K. L. (2022). Co‐creating developmental science. Infant and Child Development, 31(1), e2273.
 
-H2 Header
-------------
-
-Here's a numbered list:
-
- 1. first item
- 2. second item
- 3. third item
-
-Note again how the actual text starts at 4 columns in (4 characters
-from the left side). Here's a code sample:
-
-    # Let me re-iterate ...
-    for i in 1 .. 10 { do-something(i) }
-
-As you probably guessed, indented 4 spaces. By the way, instead of
-indenting the block, you can use delimited blocks, if you like:
-
-~~~
-define foobar() {
-    print "Welcome to flavor country!";
-}
-~~~
-
-(which makes copying & pasting easier). You can optionally mark the
-delimited block for Pandoc to syntax highlight it by specifying the languagae after the start of a block (e.g. `~~~python`) which would look like :
-
-~~~python
-import time
-# Quick, count to ten!
-for i in range(10):
-    # (but not *too* quick)
-    time.sleep(0.5)
-    print(i)
-~~~
-
-### An H3 header ###
-
-Now a nested list:
-
- 1. First, get these ingredients:
-
-      * carrots
-      * celery
-      * lentils
-
- 2. Boil some water.
-
- 3. Dump everything in the pot and follow
-    this algorithm:
-
-        find wooden spoon
-        uncover pot
-        stir
-        cover pot
-        balance wooden spoon precariously on pot handle
-        wait 10 minutes
-        goto first step (or shut off burner when done)
-
-    Do not bump wooden spoon or it will fall.
-
-Notice again how text always lines up on 4-space indents (including
-that last line which continues item 3 above).
-
-Here's a footnote [^1].
-
-[^1]: Some footnote text.
-
-Tables can look like this:
-
-| Header 1 | Header 2                   | Header 3 |
-|:--------:|:--------------------------:|:--------:|
-| data1a   | Data is longer than header | 1        |
-| d1b      | add a cell                 |          |
-| lorem    | ipsum                      | 3        |
-|          | empty outside cells        |          |
-| skip     |                            | 5        |
-| six      | Morbi purus                | 6        |
+Gau, R., Noble, S., Heuer, K., Bottenhorn, K. L., Bilgin, I. P., Yang, Y. F., ... & Marinazzo, D. (2021). Brainhack: Developing a culture of open, inclusive, community-driven neuroscience. Neuron, 109(11), 1769-1775.
 
 
-A horizontal rule follows.
+Preprints
+============
 
-***
+MacSweeney, N., Beck, D., Whitmore, L., Mills, K. L., Westlye, L. T., von Soest, T., … Tamnes, C. K. (2024, May 8). Multimodal brain age indicators of internalising problems in adolescence: A longitudinal investigation. https://doi.org/10.31234/osf.io/eqz9b
 
-Here's a definition list:
 
-apples
-  : Good for making applesauce.
+Beck, D., Whitmore, L.B., MacSweeney, N., Brieant, A., Karl, V., de Landge, A.G., Westlye, L.T., Mills, K., Tamnes, C.K. (2024). Dimensions of early life adversity are differentially associated with patterns of delayed and accelerated brain maturation. bioRxiv 2024.01.22.576780; doi: https://doi.org/10.1101/2024.01.22.576780
 
-oranges
-  : Citrus!
 
-tomatoes
-  : There's no "e" in tomatoe.
-
-Again, text is indented 4 spaces. (Put a blank line between each
-term and  its definition to spread things out more.)
-
-Here's a "line block" (note how whitespace is honored):
-
-| Line one
-|   Line too
-| Line tree
-
-and images can be specified like so:
-
-![example image](https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=300&h=300&fit=crop "An exemplary image")
-
-Inline math equation: $\omega = d\phi / dt$. Display
-math should get its own line like so:
-
-$$I = \int \rho R^{2} dV$$
+Weng, T. B., Vela, R. D., Weber, W., Dodla, M., Heinsfeld, A. S., Parker, S. D., ... & Craddock, R. C. (2021). The impact of customized head molds on motion and motion-related artifacts from structural and functional MRI scans in children. medRxiv, 2021-03.
