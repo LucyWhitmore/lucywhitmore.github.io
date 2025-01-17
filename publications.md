@@ -7,8 +7,11 @@ description: recent publications & presentations
 Publications
 ============
 
-Ali, S., McCann, C., Thieu, M., Whitmore, L., Laird, A. (In press, Developmental Cognitive Neuroscience). NowIKnowMyABCD: A Global Resource Hub for Researchers Using Data from the ABCD Study. 
-2023
+Beck, D., Whitmore, L., MacSweeney, N., Brieant, A., Karl, V., de Lange, A. M. G., ... & Tamnes, C. K. (2025). Dimensions of early-life adversity are differentially associated with patterns of delayed and accelerated brain maturation. Biological psychiatry, 97(1), 64-72.
+
+MacSweeney, N., Beck, D., Whitmore, L., Mills, K. L., Westlye, L. T., von Soest, T., ... & Tamnes, C. K. (2024). Multimodal brain age indicators of internalising problems in early adolescence: A longitudinal investigation. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging.
+
+Ali, S. A., McCann, C. F., Thieu, M. K., Whitmore, L. B., & Laird, A. R. (2024). NowIKnowMyABCD: A Global Resource Hub for Researchers Using Data from the ABCD Study. Developmental Cognitive Neuroscience, 101388.
 
 Whitmore, L.B., Weston, S.J., Mills, K.L. (2023). BrainAGE as a measure of maturation during early adolescence. Imaging Neuroscience 2023; 1 1–21.
 2022	
