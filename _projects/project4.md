@@ -6,5 +6,8 @@ description: What do adolescents think about how we measure maturation?
 
 
 Poster coming soon!
+
+
+![Poster](/assets/images/SRA Poster.png)
 ============
 
