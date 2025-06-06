@@ -31,10 +31,6 @@ Gau, R., Noble, S., Heuer, K., Bottenhorn, K. L., Bilgin, I. P., Yang, Y. F., ..
 Preprints
 ============
 
-MacSweeney, N., Beck, D., Whitmore, L., Mills, K. L., Westlye, L. T., von Soest, T., … Tamnes, C. K. (2024, May 8). Multimodal brain age indicators of internalising problems in adolescence: A longitudinal investigation. https://doi.org/10.31234/osf.io/eqz9b
-
-
-Beck, D., Whitmore, L.B., MacSweeney, N., Brieant, A., Karl, V., de Landge, A.G., Westlye, L.T., Mills, K., Tamnes, C.K. (2024). Dimensions of early life adversity are differentially associated with patterns of delayed and accelerated brain maturation. bioRxiv 2024.01.22.576780; doi: https://doi.org/10.1101/2024.01.22.576780
-
+Whitmore, L., & Beck, D., Dr. (2025). Brain age prediction in children and adolescents: current challenges and future directions. https://doi.org/10.31234/osf.io/3xzah_v1
 
 Weng, T. B., Vela, R. D., Weber, W., Dodla, M., Heinsfeld, A. S., Parker, S. D., ... & Craddock, R. C. (2021). The impact of customized head molds on motion and motion-related artifacts from structural and functional MRI scans in children. medRxiv, 2021-03.
