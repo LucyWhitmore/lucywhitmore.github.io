@@ -31,6 +31,6 @@ Gau, R., Noble, S., Heuer, K., Bottenhorn, K. L., Bilgin, I. P., Yang, Y. F., ..
 Preprints
 ============
 
-Whitmore, L., & Beck, D., Dr. (2025). Brain age prediction in children and adolescents: current challenges and future directions. https://doi.org/10.31234/osf.io/3xzah_v1
+Whitmore, L., & Beck, D. (2025). Brain age prediction in children and adolescents: current challenges and future directions. https://doi.org/10.31234/osf.io/3xzah_v1
 
 Weng, T. B., Vela, R. D., Weber, W., Dodla, M., Heinsfeld, A. S., Parker, S. D., ... & Craddock, R. C. (2021). The impact of customized head molds on motion and motion-related artifacts from structural and functional MRI scans in children. medRxiv, 2021-03.
